@@ -1,0 +1,28 @@
+sort1 uses: TODO
+bubble
+How do you know?: TODO
+
+sort2 uses: TODO
+merge
+How do you know?: TODO
+
+sort3 uses: TODO
+selection
+How do you know?: TODO
+
+
+
+sorted 5000
+real 1   0m0.057s
+real 2   0m0.036s
+real 3   0m0.072s
+
+random 5000
+real 1   0m0.102s
+real 2   0m0.037s
+real 3   0m0.093s
+
+reversed
+real 1   0m0.083
+real    0m0.036s
+real    0m0.072s
